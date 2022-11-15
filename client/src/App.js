@@ -1,10 +1,13 @@
 import './App.css';
+import Rutas from './routes/Rutas'
 
 function App() {
   return (
     <div className="App">
-      <h1>Henry Countries</h1>
+      <Rutas />
     </div>
+
+
   );
 }
 
