@@ -16,7 +16,7 @@ function Countries() {
 
   return (
     <>
-    <h1>Cargando las paises...</h1>
+    <h1>Cargando los paises...</h1>
     
    {countries.length > 0 &&
    countries?.map((c) => (
